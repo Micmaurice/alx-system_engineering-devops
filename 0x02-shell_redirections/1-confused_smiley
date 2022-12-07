@@ -1,0 +1,3 @@
+#!/bin/bash
+#producing a confused smiley face
+echo "\"(Ôo)'"
